@@ -1,0 +1,619 @@
+hsa_circ_0000977	pancreatic ductal adenocarcinoma
+hsa_circ_0006220	pancreatic ductal adenocarcinoma
+hsa_circ_0001666	pancreatic ductal adenocarcinoma
+hsa_circ_0043278	pancreatic ductal adenocarcinoma
+hsa_circ_0078297	pancreatic ductal adenocarcinoma
+hsa_circ_0089810	primary great saphenous vein varicosities
+hsa_circ_0000378	primary great saphenous vein varicosities
+hsa_circ_0006427	primary great saphenous vein varicosities
+hsa_circ_0003171	primary great saphenous vein varicosities
+hsa_circ_0005267	primary great saphenous vein varicosities
+hsa_circ_100571	primary hepatic carcinoma
+hsa_circ_400031	primary hepatic carcinoma
+hsa_circ_102032	primary hepatic carcinoma
+hsa_circ_103096	primary hepatic carcinoma
+hsa_circ_102347	primary hepatic carcinoma
+hsa_circ_103595	lung cancer
+hsa_circ_0037911	essential hypertension
+hsa_circ_0002161	essential hypertension
+hsa_circ_0007385	non-small cell lung carcinoma
+hsa_circ_400011	systemic lupus erythematosus
+hsa_circ_0000518	pancreatic cancer
+hsa_circ_100433	pancreatic cancer
+hsa_circ_101717	pancreatic cancer
+hsa_circ_102049	pancreatic cancer
+hsa_circ_102051	pancreatic cancer
+hsa_circ_102619	pancreatic cancer
+hsa_circ_103076	pancreatic cancer
+hsa_circ_103390	pancreatic cancer
+hsa_circ_104084	pancreatic cancer
+hsa_circ_104270	pancreatic cancer
+circRNA-FOXO3	non-small cell lung carcinoma
+hsa_circ_0003146	systemic lupus erythematosus
+hsa_circ_0034398	systemic lupus erythematosus
+hsa_circ_0001866	systemic lupus erythematosus
+hsa_circ_0008615	systemic lupus erythematosus
+hsa_circ_0046599	systemic lupus erythematosus
+hsa_circ_0021549	systemic lupus erythematosus
+hsa_circ_0040705	systemic lupus erythematosus
+hsa_circ_0001649	Glioma
+hsa_circ_0007534	Glioma
+hsa_circ_102231	lung cancer
+hsa_circ_0084927	acne
+hsa_circ_0001073	acne
+hsa_circ_0005941	acne
+hsa_circ_0086376	acne
+hsa_circ_0018168	acne
+hsa_circ_0000172	urinary bladder cancer
+hsa_circ_0002495	urinary bladder cancer
+hsa_circ_0011946	breast cancer
+hsa_circ_0007534	breast cancer
+hsa_circ_0093859	breast cancer
+hsa_circ_0000284	colorectal cancer
+circHECTD1	pulmonary silicosis
+hsa_circ_0004712	endometriosis of ovary
+hsa_circ_0002198	endometriosis of ovary
+hsa_circ_0067934	hepatocellular carcinoma
+hsa_circ_007500	lupus nephritis
+hsa_circ_0000615	lupus nephritis
+hsa_circ_0000175	lupus nephritis
+hsa_circ_0001819	lupus nephritis
+hsa_circ_0008433	lupus nephritis
+hsa_circ_0003922	lupus nephritis
+hsa_circ_0001184	breast cancer
+hsa_circ_0001106	breast cancer
+hsa_circ_0001658	breast cancer
+hsa_circ_100438	breast cancer
+circC3P1	hepatocellular carcinoma
+hsa_circ_0067934	lung adenocarcinoma
+hsa_circ_0087537	facet joint osteoarthritis
+hsa_circ_0072668	facet joint osteoarthritis
+hsa_circ_0071896	facet joint osteoarthritis
+hsa_circ_0063781	facet joint osteoarthritis
+hsa_circ_0053743	facet joint osteoarthritis
+hsa_circ_0029067	facet joint osteoarthritis
+hsa_circ_0005127	facet joint osteoarthritis
+hsa_circ_0000936	Glioma
+circ-FBXW7	Glioma
+hsa_circ_0046701	Glioma
+hsa_circ_100721	oral squamous cell carcinoma
+hsa_circ_0003159	stomach cancer
+hsa_circ_0000700	tuberculosis
+hsa_circ_009024	tuberculosis
+hsa_circ_005086	tuberculosis
+hsa_circ_102101	tuberculosis
+hsa_circ_104964	tuberculosis
+hsa_circ_104296	tuberculosis
+hsa_circ_0000426	clear cell renal cell carcinoma
+hsa_circ_0001649	colorectal cancer
+hsa_circ_0080210	degenerative disc disease
+hsa_circ_0000284	hepatocellular carcinoma
+hsa_circ_0001445	Glioblastoma multiforme
+hsa_circ_0014717	colorectal cancer
+hsa_circ_0000941	cervical cancer
+hsa_circ_0014130	non-small cell lung carcinoma
+hsa_circ_0016760	non-small cell lung carcinoma
+hsa_circ_0001821	osteosarcoma
+hsa_circ_0109046	endometrial cancer
+hsa_circ_0002577	endometrial cancer
+hsa_circ_0012673	lung adenocarcinoma
+hsa_circ_0067531	hepatocellular carcinoma
+hsa_circ_0001649	cholangiocarcinoma
+hsa_circ_0000520	stomach carcinoma
+hsa_circ_0001859	rheumatoid arthritis
+hsa_circ_0015756	hepatoblastoma
+hsa_circ_0040081	hepatoblastoma
+hsa_circ_0067745	hepatoblastoma
+hsa_circ_0062163	hepatoblastoma
+hsa_circ_0079549	hepatoblastoma
+hsa_circ_0017515	hepatoblastoma
+hsa_circ_0045510	hepatoblastoma
+hsa_circ_0005931	hepatoblastoma
+hsa_circ_0078710	hepatoblastoma
+hsa_circ_0041731	hepatoblastoma
+hsa_circ_0043534	hepatoblastoma
+hsa_circ_0023110	hepatoblastoma
+hsa_circ_0023114	hepatoblastoma
+hsa_circ_0066077	hepatoblastoma
+hsa_circ_0023117	hepatoblastoma
+hsa_circ_0057336	hepatoblastoma
+hsa_circ_0072359	hepatoblastoma
+hsa_circ_0062557	endometriosis of ovary
+hsa_circ_0026143	endometriosis of ovary
+hsa_circ_0023115	endometriosis of ovary
+hsa_circ_0000673	endometriosis of ovary
+hsa_circ_0009910	osteosarcoma
+circDLGAP4	acute ischemic stroke
+hsa_circ_0074362	stomach cancer
+hsa_circ_0001017	stomach cancer
+hsa_circ_0061276	stomach cancer
+hsa_circ_0007534	colorectal cancer
+hsa_circ_0000567	colorectal cancer
+hsa_circ_0001564	osteosarcoma
+hsa_circ_0001445	hepatocellular carcinoma
+circ-ZFR	stomach cancer
+CDR1-AS	stomach cancer
+hsa_circ_0091702	degenerative disc disease
+hsa_circ_0046366	fatty liver disease
+hsa_circ_0000681	pulmonary tuberculosis
+hsa_circ_0008797	pulmonary tuberculosis
+hsa_circ_0002113	pulmonary tuberculosis
+hsa_circ_0002362	pulmonary tuberculosis
+hsa_circ_0000414	pulmonary tuberculosis
+hsa_circ_0063179	pulmonary tuberculosis
+hsa_circ_0002908	pulmonary tuberculosis
+circUBAP2	lung cancer
+hsa_circ_404833	lung adenocarcinoma
+hsa_circ_006411	lung adenocarcinoma
+hsa_circ_401977	lung adenocarcinoma
+hsa_circ_0013509	cardiovascular system disease
+hsa_circ_0000284	pancreatic ductal adenocarcinoma
+hsa_circ_0000064	lung cancer
+hsa_circ_0005105	osteoarthritis
+hsa_circ_0075001	acute myeloid leukemia
+hsa_circ_001598	bladder carcinoma
+hsa_circ_0005015	diabetic retinopathy
+hsa_circ_0000615	diabetic retinopathy
+hsa_circ_0019069	diabetic retinopathy
+hsa_circ_0066922	diabetic retinopathy
+hsa_circ_0081108	diabetic retinopathy
+hsa_circ_0081162	diabetic retinopathy
+hsa_circ_0087206	diabetic retinopathy
+hsa_circ_0087215	diabetic retinopathy
+hsa_circ_0041796	diabetic retinopathy
+hsa_circ_0072410	diabetic retinopathy
+hsa_circ_0026388	diabetic retinopathy
+hsa_circ_0057093	diabetic retinopathy
+hsa_circ_0030055	diabetic retinopathy
+hsa_circ_0026372	diabetic retinopathy
+hsa_circ_0068489	diabetic retinopathy
+hsa_circ_0008305	degenerative disc disease
+hsa_circ_0041946	degenerative disc disease
+hsa_circ_0004712	rheumatoid arthritis
+hsa_circ_0083964	rheumatoid arthritis
+hsa_circ_0064996	rheumatoid arthritis
+hsa_circ_0032683	rheumatoid arthritis
+hsa_circ_0052012	rheumatoid arthritis
+hsa_circ_0006988	pancreatic cancer
+hsa_circ_0043256	non-small cell lung carcinoma
+hsa_circ_0021001	intracranial aneurysm
+hsa-circRNA11783-2	coronary artery disease
+hsa-circRNA11783-2	type 2 diabetes mellitus
+hsa-circRNA11806-28	coronary artery disease
+hsa-circRNA11806-28	type 2 diabetes mellitus
+hsa-circRNA6510-1	coronary artery disease
+hsa-circRNA6510-1	type 2 diabetes mellitus
+hsa_circ_0003575	atherosclerosis
+hsa_circ_0001445	prostate cancer
+hsa_circ_14623	pulmonary tuberculosis
+hsa_circ_09585	pulmonary tuberculosis
+hsa_circ_005538	pulmonary tuberculosis
+hsa_circ_09993	pulmonary tuberculosis
+hsa_circ_13478	pulmonary tuberculosis
+hsa_circ_0005807	pulmonary tuberculosis
+hsa_circ_0085154	hepatocellular carcinoma
+circRNA120	esophageal squamous cell carcinoma
+circRNA167	esophageal squamous cell carcinoma
+circRNA2918	esophageal squamous cell carcinoma
+circRNA3341	esophageal squamous cell carcinoma
+circRNA3594	esophageal squamous cell carcinoma
+circRNA3703	esophageal squamous cell carcinoma
+circRNA3706	esophageal squamous cell carcinoma
+circRNA3707	esophageal squamous cell carcinoma
+circRNA378	esophageal squamous cell carcinoma
+circRNA4628	esophageal squamous cell carcinoma
+circRNA5669	esophageal squamous cell carcinoma
+circRNA666	esophageal squamous cell carcinoma
+circRNA7534	esophageal squamous cell carcinoma
+circRNA7535	esophageal squamous cell carcinoma
+circRNA7536	esophageal squamous cell carcinoma
+circRNA7537	esophageal squamous cell carcinoma
+circRNA7673	esophageal squamous cell carcinoma
+circRNA7674	esophageal squamous cell carcinoma
+circRNA7675	esophageal squamous cell carcinoma
+circRNA7676	esophageal squamous cell carcinoma
+circRNA7679	esophageal squamous cell carcinoma
+circRNA8505	esophageal squamous cell carcinoma
+circRNA8506	esophageal squamous cell carcinoma
+circRNA8507	esophageal squamous cell carcinoma
+circRNA904	esophageal squamous cell carcinoma
+circRNA9227	esophageal squamous cell carcinoma
+circRNA9652	esophageal squamous cell carcinoma
+circRNA9656	esophageal squamous cell carcinoma
+circRNA9658	esophageal squamous cell carcinoma
+circRNA9671	esophageal squamous cell carcinoma
+circRNA9771	esophageal squamous cell carcinoma
+circRNA9777	esophageal squamous cell carcinoma
+hsa_circ_0003221	bladder carcinoma
+hsa_circ_0047905	stomach cancer
+hsa_circ_0138960	stomach cancer
+hsa-circRNA7690-15	stomach cancer
+hsa_circ_100933	capillary hemangioma
+hsa_circ_100709	capillary hemangioma
+hsa_circ_104310	capillary hemangioma
+hsa_circ_102116	capillary hemangioma
+hsa_circ_051239	capillary hemangioma
+hsa_circ_102039	capillary hemangioma
+hsa_circ_0001982	breast cancer
+hsa_circ_402458	primary biliary cirrhosis
+hsa_circ_406329	primary biliary cirrhosis
+hsa_circ_407176	primary biliary cirrhosis
+hsa_circ_0082318	primary biliary cirrhosis
+circ-ZFR	liver cancer
+hsa_circ_0003028	liver cancer
+hsa_circ_0007915	liver cancer
+hsa_circ_0000615	Hirschsprung's disease
+hsa_circ_0043497	tuberculosis
+hsa_circ_0030045	tuberculosis
+hsa_circ_0001417	tuberculosis
+hsa_circ_0030569	tuberculosis
+hsa_circ_0001204	tuberculosis
+hsa_circ_0001785	breast cancer
+hsa_circ_0108942	breast cancer
+hsa_circ_0068033	breast cancer
+hsa_circ_0092509	osteosarcoma
+hsa_circ_0007874	hepatocellular carcinoma
+hsa_circ_0000284	diabetes mellitus
+hsa_circ_0001724	colon cancer
+hsa_circ_100914	Moyamoya disease
+hsa_circ_103343	Moyamoya disease
+hsa_circ_050898	Moyamoya disease
+hsa_circ_101720	Moyamoya disease
+hsa_circ_067209	Moyamoya disease
+hsa_circ_0005836	active pulmonary tuberculosis
+hsa_circ_0009128	active pulmonary tuberculosis
+hsa_circ_0023956	active pulmonary tuberculosis
+hsa_circ_0078768	active pulmonary tuberculosis
+hsa_circ_0088452	active pulmonary tuberculosis
+hsa_circ_0003906	colorectal cancer
+hsa_circ_0005239	Triple Negative Breast Neoplasms
+hsa_circ_0045714	osteoarthritis
+CDR1-AS	hepatocellular carcinoma
+hsa_circ_0004214	breast cancer
+hsa_circ_0000284	bladder urothelial carcinoma
+hsa_circ_103801	osteosarcoma
+hsa_circ_102049	osteosarcoma
+hsa_circ_103309	osteosarcoma
+hsa_circ_101113	osteosarcoma
+hsa_circ_102485	osteosarcoma
+hsa_circ_100241	osteosarcoma
+hsa_circ_104980	osteosarcoma
+hsa_circ_104692	osteosarcoma
+hsa_circ_104892	osteosarcoma
+hsa_circ_102678	osteosarcoma
+hsa_circ_0004771	osteosarcoma
+hsa_circ_100258	osteosarcoma
+hsa_circ_0091017	urinary bladder cancer
+hsa_circ_0002024	urinary bladder cancer
+hsa_circ_0018289	cervical cancer
+hsa_circ_0011021	cervical cancer
+hsa_circ_0034912	cervical cancer
+hsa_circ_0091822	cervical cancer
+hsa_circ_0089231	cervical cancer
+hsa_circ_0087432	cervical cancer
+hsa_circ_0000181	stomach cancer
+hsa_circ_0000745	stomach cancer
+hsa_circ_0085616	stomach cancer
+hsa_circ_0006127	stomach cancer
+hsa_circ_0006528	breast cancer
+hsa_circ_0002113	breast cancer
+hsa_circ_0002874	breast cancer
+hsa_circ_0001667	breast cancer
+hsa_circ_0085495	breast cancer
+hsa_circ_0086241	breast cancer
+hsa_circ_0092276	breast cancer
+hsa_circ_0003838	breast cancer
+hsa_circ_0071410	radiation-induced liver fibrosis
+hsa_circ_0054345	radiation-induced liver fibrosis
+hsa_circ_0072765	radiation-induced liver fibrosis
+hsa_circ_0070963	radiation-induced liver fibrosis
+hsa_circ_0061893	radiation-induced liver fibrosis
+hsa_circ_0013255	radiation-induced liver fibrosis
+hsa_circ_0020397	colorectal cancer
+hsa_circ_0002768	bladder carcinoma
+hsa_circ_0035560	multiple sclerosis
+hsa_circ_0005402	multiple sclerosis
+hsa_circ_0000518	multiple sclerosis
+hsa_circ_0000517	multiple sclerosis
+hsa_circ_0000519	multiple sclerosis
+hsa_circ_0000520	multiple sclerosis
+hsa_circ_0001400	multiple sclerosis
+hsa_circ_0056731	multiple sclerosis
+hsa_circ_0024892	multiple sclerosis
+hsa_circ_0103038	breast cancer
+hsa_circ_0107327	breast cancer
+hsa_circ_0057129	breast cancer
+hsa_circ_0000638	breast cancer
+hsa_circ_0002220	breast cancer
+hsa_circ_0033144	breast cancer
+hsa_circ_0000026	stomach cancer
+hsa_circ_0000144	stomach cancer
+hsa_circ_0032821	stomach cancer
+hsa_circ_0005529	stomach cancer
+hsa_circ_0061274	stomach cancer
+hsa_circ_0005927	stomach cancer
+hsa_circ_0092341	stomach cancer
+hsa_circ_0001561	stomach cancer
+hsa_circ_0003222	stomach cancer
+hsa_circ_101396	Leukoaraiosis
+hsa_circ_102533	Leukoaraiosis
+hsa_circ_103783	Leukoaraiosis
+hsa_circ_102470	Leukoaraiosis
+hsa_circ_0046367	fatty liver disease
+hsa_circ_0013339	oral squamous cell carcinoma
+hsa_circ_0076304	stomach cancer
+hsa_circ_0035431	stomach cancer
+hsa_circ_0076305	stomach cancer
+hsa_circ_063981	diabetic retinopathy
+hsa_circ_404457	diabetic retinopathy
+hsa_circ_100750	diabetic retinopathy
+hsa_circ_406918	diabetic retinopathy
+hsa_circ_104387	diabetic retinopathy
+hsa_circ_103410	diabetic retinopathy
+hsa_circ_100192	diabetic retinopathy
+circDENND4C	breast cancer
+hsa_circ_003251	T2DM with depression
+hsa_circ_015115	T2DM with depression
+hsa_circ_100918	T2DM with depression
+hsa_circ_005019	T2DM with depression
+circR-284	cardiovascular system disease
+hsa_circ_0005986	hepatocellular carcinoma
+hsa_circ_0058106	hypopharyngeal squamous cell carcinoma
+hsa_circ_0058107	hypopharyngeal squamous cell carcinoma
+hsa_circ_0024108	hypopharyngeal squamous cell carcinoma
+hsa_circ_0036722	hypopharyngeal squamous cell carcinoma
+hsa_circ_0002260	hypopharyngeal squamous cell carcinoma
+hsa_circ_0001189	hypopharyngeal squamous cell carcinoma
+circ-ITCH	hepatocellular carcinoma
+hsa_circ_0013958	lung adenocarcinoma
+hsa_circ_0004771	breast cancer
+hsa_circ_0001824	breast cancer
+hsa_circ_0001875	breast cancer
+hsa_circ_0006054	breast cancer
+hsa_circ_0004619	breast cancer
+hsa_circ_406697	breast cancer
+hsa_circ_0008717	breast cancer
+hsa_circ_0008945	breast cancer
+hsa_circ_0000732	breast cancer
+hsa_circ_0000098	breast cancer
+hsa_circ_0001721	breast cancer
+hsa_circ_0000911	breast cancer
+hsa_circ_0018293	breast cancer
+hsa_circ_0001283	breast cancer
+hsa_circ_0000893	breast cancer
+hsa_circ_0000981	breast cancer
+hsa_circ_100338	hepatocellular carcinoma
+hsa_circ_104075	hepatocellular carcinoma
+hsa_circ_102049	hepatocellular carcinoma
+hsa_circ_0000284	non-small cell lung carcinoma
+hsa_circ_0000497	hepatocellular carcinoma
+hsa_circ_101238	thoracic aortic dissection
+hsa_circ_104634	thoracic aortic dissection
+hsa_circ_002271	thoracic aortic dissection
+hsa_circ_102771	thoracic aortic dissection
+hsa_circ_104349	thoracic aortic dissection
+hsa_circ_102683	thoracic aortic dissection
+hsa_circ_005525	thoracic aortic dissection
+hsa_circ_103458	thoracic aortic dissection
+CDR1-AS	colorectal cancer
+hsa_circ_104916	stomach cancer
+hsa_circ_0056288	osteosarcoma
+hsa_circ_0000615	hypertension
+hsa_circ_0000615	coronary artery disease
+circUBAP2	osteosarcoma
+hsa_circ_0014717	stomach cancer
+hsa_circ_0007031	colorectal cancer
+hsa_circ_0000504	colorectal cancer
+hsa_circ_0007006	colorectal cancer
+hsa_circ_0074930	colorectal cancer
+hsa_circ_0048232	colorectal cancer
+hsa_circ_0006174	colorectal cancer
+hsa_circ_0008509	colorectal cancer
+hsa_circ_0084021	colorectal cancer
+hsa_circ_104871	rheumatoid arthritis
+hsa_circ_003524	rheumatoid arthritis
+hsa_circ_101873	rheumatoid arthritis
+hsa_circ_103047	rheumatoid arthritis
+hsa_circ_092516	rheumatoid arthritis
+hsa_circ_0006633	stomach cancer
+hsa_circ_0058246	stomach cancer
+hsa_circ_0091742	stomach cancer
+hsa_circ_0089548	stomach cancer
+hsa_circ_0003707	stomach cancer
+hsa_circ_0085553	stomach cancer
+hsa_circ_0006022	stomach cancer
+hsa_circ_0031979	stomach cancer
+hsa_circ_0069131	stomach cancer
+hsa_circ_100269	stomach cancer
+hsa_circ_0000589	osteoarthritis
+hsa_circ_103387	osteoarthritis
+hsa_circ_101975	osteoarthritis
+hsa_circ_0005567	osteoarthritis
+hsa_circ_0000271	fatty liver disease
+hsa_circ_000367	fatty liver disease
+hsa_circ_004183	fatty liver disease
+hsa_circ_007850	fatty liver disease
+hsa_circ_004121	fatty liver disease
+hsa_circ_014724	fatty liver disease
+hsa_circ_0000096	renal clear cell carcinoma
+hsa_circ_0001313	stomach cancer
+hsa_circ_0001313	pancreatic cancer
+hsa_circ_0001313	breast cancer
+hsa_circ_0001313	cervical cancer
+hsa_circ_0003570	hepatocellular carcinoma
+hsa_circ_0023404	non-small cell lung carcinoma
+hsa_circ_0005870	hypertension
+circRNA-FOXO3	Myocardial senescence
+hsa_circ_0001895	stomach cancer
+circ-BANP	colorectal cancer
+hsa_circ_0001727	hepatocellular carcinoma
+hsa_circ_0004018	hepatocellular carcinoma
+hsa_circ_0006460	Glioblastoma
+hsa_circ_0005603	Glioblastoma
+hsa_circ_0008345	Glioblastoma
+hsa_circ_0004872	Glioblastoma
+hsa_circ_0006411	Glioblastoma
+hsa_circ_0003586	Glioblastoma
+hsa_circ_0002968	Glioblastoma
+hsa_circ_0000199	Glioblastoma
+hsa_circ_0001566	Glioblastoma
+hsa_circ_0001821	lung cancer
+hsa_circ_0001821	breast cancer
+hsa_circ_101308	stomach cancer
+hsa_circ_104423	stomach cancer
+hsa_circ_0016347	osteosarcoma
+hsa_circ_0000190	stomach cancer
+hsa_circ_0001821	stomach cancer
+hsa_circ_400071	stomach cancer
+hsa_circ_0000291	stomach cancer
+hsa_circ_0000326	stomach cancer
+hsa_circ_0001539	stomach cancer
+hsa_circ_400066	stomach cancer
+hsa_circ_0000627	stomach cancer
+circ-ZFR	colorectal cancer
+hsa_circ_104700	colorectal cancer
+hsa_circ_0031288	cervical cancer
+hsa_circ_0002343	cervical cancer
+hsa_circ_0069399	cervical cancer
+hsa_circ_0007386	cervical cancer
+hsa_circ_0008844	cervical cancer
+hsa_circ_0001212	cervical cancer
+hsa_circ_0001187	cervical cancer
+hsa_circ_0007928	cervical cancer
+hsa_circ_0004277	acute myeloid leukemia
+hsa_circ_0035381	acute myeloid leukemia
+hsa_circ_0004136	acute myeloid leukemia
+hsa_circ_0058058	acute myeloid leukemia
+hsa_circ_0017446	acute myeloid leukemia
+hsa_circ_0002111	papillary thyroid carcinoma
+hsa_circ_0004458	papillary thyroid carcinoma
+hsa_circ_0015278	papillary thyroid carcinoma
+hsa_circ_0008016	papillary thyroid carcinoma
+hsa_circ_0004771	papillary thyroid carcinoma
+hsa_circ_0021553	papillary thyroid carcinoma
+hsa_circ_0079891	papillary thyroid carcinoma
+hsa_circ_0067103	papillary thyroid carcinoma
+hsa_circ_0091894	papillary thyroid carcinoma
+hsa_circ_0092315	papillary thyroid carcinoma
+hsa_circ_0078738	papillary thyroid carcinoma
+hsa_circ_0064557	papillary thyroid carcinoma
+hsa_circ_0000516	papillary thyroid carcinoma
+hsa_circ_0004846	papillary thyroid carcinoma
+hsa_circ_0003505	papillary thyroid carcinoma
+hsa_circ_0081342	papillary thyroid carcinoma
+hsa_circ_0054633	type 2 diabetes mellitus
+hsa_circ_0018508	type 2 diabetes mellitus
+hsa_circ_0068087	type 2 diabetes mellitus
+hsa_circ_0000994	heart disease
+hsa_circ_0106803	multiple sclerosis
+hsa_circ_0000096	stomach cancer
+hsa_circ_0000594	Glioma
+circRNA-FOXO3	cancer
+hsa_circ_0124644	coronary artery disease
+hsa_circ_0082081	coronary artery disease
+hsa_circ_0113854	coronary artery disease
+hsa_circ_0098964	coronary artery disease
+hsa-circRNA5974-1	coronary artery disease
+hsa_circ_0001649	stomach cancer
+hsa_circ_0005785	pancreatic ductal adenocarcinoma
+hsa_circ_0001946	pancreatic ductal adenocarcinoma
+hsa_circ_0005397	pancreatic ductal adenocarcinoma
+hsa_circ_0006913	pancreatic ductal adenocarcinoma
+hsa_circ_0000257	pancreatic ductal adenocarcinoma
+hsa_circ_0041150	pancreatic ductal adenocarcinoma
+hsa_circ_0008719	pancreatic ductal adenocarcinoma
+MCF7_circ_000595	breast cancer
+CDR1-AS	Alzheimer's disease
+hsa_circ_101222	pre-eclampsia
+hsa_circ_0000069	colorectal cancer
+hsa_circ_0038374	multiple system atrophy
+hsa_circ_0054211	multiple system atrophy
+hsa_circ_0032891	multiple system atrophy
+hsa_circ_0108308	multiple system atrophy
+hsa_circ_0005540	multiple system atrophy
+hsa_circ_0001461	colon cancer
+hsa_circ_0031583	colon cancer
+hsa_circ_0001006	colon cancer
+hsa_circ_0007444	colon cancer
+hsa_circ_0001445	colon cancer
+hsa_circ_0067934	esophageal squamous cell carcinoma
+hsa_circ_0004383	Glioma
+hsa_circ_103736	cutaneous squamous cell carcinoma
+hsa_circ_103737	cutaneous squamous cell carcinoma
+hsa_circ_101555	cutaneous squamous cell carcinoma
+hsa_circ_0001410	major depressive disorder
+hsa_circ_0001907	major depressive disorder
+hsa_circ_0005620	major depressive disorder
+hsa_circ_0056048	major depressive disorder
+hsa_circ_0089310	major depressive disorder
+hsa_circ_100782	pre-eclampsia
+hsa_circ_102682	pre-eclampsia
+hsa_circ_104820	pre-eclampsia
+circ-ITCH	lung cancer
+circANRIL	atherosclerosis
+hsa_circ_0041103	bladder carcinoma
+hsa_circ_0007158	bladder carcinoma
+hsa_circ_0082582	bladder carcinoma
+hsa_circ_0072088	bladder carcinoma
+hsa_circ_0061265	bladder carcinoma
+hsa_circ_0005273	bladder carcinoma
+hsa_circ_0089974	esophageal cancer
+hsa_circ_0000554	esophageal cancer
+hsa_circ_0002019	esophageal cancer
+hsa_circ_0014879	esophageal cancer
+hsa_circ_0004519	esophageal cancer
+hsa_circ_0058058	esophageal cancer
+hsa_circ_0001336	esophageal cancer
+hsa_circ_0000518	esophageal cancer
+hsa_circ_0032832	esophageal cancer
+hsa_circ_0005075	hepatocellular carcinoma
+hsa_circ_0075829	basal cell carcinoma
+hsa_circ_0008732	basal cell carcinoma
+hsa_circ_0005912	basal cell carcinoma
+hsa_circ_0000677	colorectal cancer
+hsa_circ_0001445	Glioma
+hsa_circ_0142167	Glioma
+hsa_circ_0000284	Glioma
+hsa_circ_0000915	Glioma
+hsa_circ_0142359	Glioma
+hsa_circ_0132250	Glioma
+hsa_circ_0073237	Glioma
+hsa_circ_0000437	Glioma
+hsa_circ_0000118	Glioma
+hsa_circ_0000994	Glioma
+hsa_circ_0121603	Glioma
+hsa_circ_0001333	Glioma
+hsa_circ_0102953	Glioma
+hsa_circ_0032876	Glioma
+hsa_circ_0000831	Glioma
+hsa_circ_0028899	Glioma
+hsa_circ_0048754	Glioma
+hsa_circ_0080121	Glioma
+hsa_circ_0000638	Glioma
+hsa_circ_0067735	Glioma
+hsa_circ_0001206	Glioma
+hsa_circ_0001070	Glioma
+hsa_circ_0001512	Glioma
+hsa_circ_0131980	Glioma
+hsa_circ_0024997	Glioma
+hsa_circ_0000284	breast cancer
+hsa_circ_0000284	stomach cancer
+hsa_circ_0000284	clear cell renal cell carcinoma
+hsa_circ_0000284	prostate adenocarcinoma
+hsa_circ_0023404	osteoarthritis
+hsa_circ_100855	laryngeal squamous cell carcinoma
+hsa_circ_104912	laryngeal squamous cell carcinoma
+hsa_circ_0001649	hepatocellular carcinoma
+CDR1-AS	Glioblastoma
+hsa_circ_0001451	colorectal cancer
+hsa_circ_0008887	Immunosenescence
+circ-KLDHC10	colorectal cancer
+circ-ITCH	colorectal cancer
+hsa_circ_0000140	stomach cancer
+circ-ITCH	esophageal squamous cell carcinoma
+hsa_circ_0002138	colorectal cancer
+hsa_circ_0000523	colorectal cancer
+hsa_circ_0043566	colorectal cancer
+hsa_circ_0043565	colorectal cancer
+hsa_circ_0024169	colorectal cancer
+circANRIL	arteriosclerotic cardiovascular disease
